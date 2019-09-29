@@ -3,4 +3,7 @@ class Dog
     .name = "snoopy"
   end
   
-  def name
+  def name 
+    .name
+  end
+end
